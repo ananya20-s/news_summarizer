@@ -1,5 +1,6 @@
 ## News Summarizer using pretrained BART
 
+![Sample_Output2](https://github.com/user-attachments/assets/123fd75d-8366-459b-a8e5-c8c6870b9cc0)
 
 
 
