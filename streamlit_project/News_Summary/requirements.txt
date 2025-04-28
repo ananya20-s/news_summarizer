@@ -1,0 +1,8 @@
+streamlit
+requests
+transformers
+torch
+numpy
+pandas
+newspaper3k
+lxml_html_clean
